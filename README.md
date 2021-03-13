@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasG51
 - 👀 I’m interested in PHP / Symfony
-- 🌱 I’m currently learning Symfony 5
+- 🌱 I’m currently learning Symfony 5 and Lua
 - 📫 How to reach me : contact@thomas-george.com
 
 <!---
