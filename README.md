@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @ThomasG51
-- 👀  I’m interested in Web and Game developement
-- 🌱  I’m currently learning Symfony 5, C# and Lua
+- 👀  I’m interested in Mobile, Web and Game developement
+- 🌱  I’m currently learning Swift
 - 📫  How to reach me : contact@thomas-george.com
 
 <!---
