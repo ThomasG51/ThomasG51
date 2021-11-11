@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @ThomasG51
-- 👀  I’m interested in Mobile, Web and Game developement
+- 👀  I’m interested in Symfony and iOS app developement
 - 🌱  I’m currently learning SwiftUI
 - 📫  How to reach me : contact@thomas-george.com
 
