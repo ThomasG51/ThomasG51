@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @ThomasG51
-- 👀  I’m interested in  iOS app developement
+- 👀  I’m interested in  iOS developement
 - 🌱  I’m currently learning MVVM architecture using SwiftUI
 - 📫  How to reach me : contact@thomas-george.com
 
