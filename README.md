@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @ThomasG51
 - 👀  I’m interested in  iOS developement
-- 🌱  I’m currently learning MV Pattern architecture using SwiftUI
+- 🌱  I’m currently learning MV Pattern using SwiftUI
 - 📫  How to reach me : contact@thomas-george.com
 
 <!---
