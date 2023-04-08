@@ -1,6 +1,6 @@
 # 👋  Hi everyone
 
-My name is Thomas, I'm an iOS Developper
+My name is Thomas, I'm an iOS Developer
 - 👍🏻 I love 🧑‍💻 coding, 🕹️ video games and 🏀 basketball 
 - 👀 I’m currently learning MV Pattern using SwiftUI and SpriteKit
 - 📫 You can reach me at contact@thomas-george.com
