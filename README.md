@@ -6,7 +6,7 @@ My name is Thomas, I'm an iOS Developer
 - 📫 You can reach me at contact@thomas-george.com
 - 🐥 You can also follow my [Twitter](https://twitter.com/ThomasG51)
 
-Check out my app on App Store
+Check out my apps on AppStore
 - 🕹️ [Games Library](https://apps.apple.com/us/app/games-library/id1603108579)
 - 💶 [EconoBro](https://apps.apple.com/us/app/econobro/id1668576218)
 - 🥣 [TinyTummy](https://apps.apple.com/fr/app/tinytummy/id6446797035)
