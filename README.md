@@ -1,8 +1,7 @@
 # 👋  Hi everyone
 
 My name is Thomas, I'm an iOS Developer
-- 👍🏻 I love 🧑‍💻 coding, 🕹️ video games and 🏀 basketball 
-- 👀 I’m currently learning MV Pattern using SwiftUI and SpriteKit
+- 👍🏻 I love 🧑‍💻 Swift coding, 🕹️ video games and 🏀 basketball 
 - 📫 You can reach me at contact@thomas-george.com
 - 🐥 You can also follow my [Twitter](https://twitter.com/ThomasG51)
 
