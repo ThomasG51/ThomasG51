@@ -1,9 +1,8 @@
 # 👋  Hi everyone
 
 My name is Thomas, I'm an iOS Engineer and sometimes video games developer
-- 👍🏻 I love 🧑‍💻 Swift coding, 🕹️ video games and 🏀 basketball 
-- 📫 You can reach me at contact@thomas-george.com
-- 🐥 You can also follow my [Twitter](https://twitter.com/ThomasG51)
+- 👍🏻 I love 🧑‍💻 programming, 🕹️ video games and 🏀 basketball 
+- 🐥 You can follow my [Twitter](https://twitter.com/ThomasG51)
 
 Check out my apps on AppStore
 - 🕹️ [Games Library](https://apps.apple.com/us/app/games-library/id1603108579)
