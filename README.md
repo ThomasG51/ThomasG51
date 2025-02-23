@@ -1,7 +1,7 @@
 # 👋  Hi everyone
 
 My name is Thomas, I'm a Software Engineer.\
-I like to code iOS app in `Swift` and `SwiftUI` but also some video games with `Python` and `PyGame`.\
+I like to code iOS app in `Swift` but also some video games with `Python` and `Lua`.\
 You can reach me on [X/Twitter](https://twitter.com/ThomasG51)
 
 See ya 🤙🏻
